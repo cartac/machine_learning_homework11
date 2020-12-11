@@ -17,11 +17,11 @@ The accuracy of the first two might be driven by the overfitting that those mode
 
 ## Credit Risk Ensemble 
 
-![summary_results-part2](Images/summary_results-part2.jpg)
+![summary_results-part2](Images/summary_results-part2.png)
 
 Based on the table above, the Easy Ensemble Classifier has the highest accuracy model, recall score and geometric mean, making in the model of choice for LendingClub data. 
 
-![Feautres_Importance](Images/Feautres_Importance.png)
+![Features_Importance](Images/Features_Importance.png)
 
 The top 3 features are total_rec_prncp, total_pymnt, total_pymnt_inv followed by other metrics that seem counterituitive. 
 

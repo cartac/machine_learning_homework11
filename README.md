@@ -1,10 +1,11 @@
-# Unit 10—A Yen for the Future
+# Unit 11—Risky Business
 
-![z_yen_chart](Images/z_yen_chart.png)
+![risky_business](Images/risky_business.jpg)
+
 
 Time Series - Homework 10
 
-## Initial Time-Series Plotting
+## Credit Risk Resampling Techniques
 
 There seems to be an upward trend during the 1990-2020 period, increasing from ~7,000 to ~9250; however, there were multiple cycles in the middle
 
@@ -61,7 +62,7 @@ As the charts indicates the yen's volatility is expected to grow slightly in the
 * On the other hand, when looking at the longer term trend and cycle, the YEN seems to be well positioned for the next up cycle. 
 
 
-## Regression Analysis
+## Credit Risk Ensemble 
 
 In this section we used a linear regresion model to predict future returns. 
 

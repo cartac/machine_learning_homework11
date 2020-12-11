@@ -22,7 +22,7 @@ SMOTE_class_report
 ### Combination (Over and Under) Sampling
 
 #### SMOTEENN 
-
+![SMOTEENN](Images/SMOTEENN.jpg)
 
 
 

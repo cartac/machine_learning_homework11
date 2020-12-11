@@ -32,4 +32,4 @@ SMOTE_class_report
 ![balanced_random_forest_class_report.png](Images/balanced_random_forest_class_report.png.jpg)
 
 #### Easy Ensemble Classifier
-![EEC_class_report](Images/EC_class_report.jpg)
+![EEC_class_report](Images/EEC_class_report.jpg)
